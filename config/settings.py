@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     # Third-party Applications
 
     # Local Applications
+    'pages.apps.PagesConfig',
 ]
 
 MIDDLEWARE = [
